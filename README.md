@@ -64,6 +64,58 @@
 
 ---
 
+---
+
+# ⚙️ Обо мне в коде
+
+```python
+developer = {
+    "name": "SailJe",
+    "role": "Python Backend Developer",
+    "language": "Python",
+
+    "backend": [
+        "FastAPI",
+        "SQLAlchemy",
+        "Pydantic",
+        "Alembic"
+    ],
+
+    "database": [
+        "PostgreSQL"
+    ],
+
+    "devops": [
+        "Docker",
+        "Docker Compose",
+        "Kubernetes",
+        "Linux",
+        "Nginx"
+    ],
+
+    "testing": [
+        "pytest",
+        "Postman"
+    ],
+
+    "interests": [
+        "Backend Architecture",
+        "Async Python",
+        "System Design",
+        "ML Integration"
+    ],
+
+    "status": "Open to internship / Junior opportunities 🚀"
+}
+```
+
+---
+
+# 🚀 Проекты
+
+
+
+
 # 🚀 Проекты
 
 ## 🤖 Сервис управления обучением ML-моделей
