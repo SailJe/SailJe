@@ -66,35 +66,47 @@
 
 ---
 
-## 👨‍💻 Обо мне
+## ⚙️ Обо мне в коде
 
-<img align="right" width="340" src="./giphy.gif" alt="Coding GIF"/>
+```python
+class SailJe:
+    def __init__(self):
+        self.name = "Савелий"
+        self.role = "Python Backend Developer"
+        self.location = "🌍"
+        self.status = "🟢 Open to work"
 
-Привет! Я **Савелий** 👋  
-**Python Backend Developer**, которому нравится превращать идеи в работающие сервисы.
+        self.stack = {
+            "backend": ["Python", "FastAPI", "SQLAlchemy", "Pydantic"],
+            "database": ["PostgreSQL"],
+            "devops": ["Docker", "Kubernetes", "Linux", "Nginx"],
+            "testing": ["pytest", "Postman"],
+        }
 
-Я не ограничиваюсь написанием API — мне интересно пройти весь путь проекта:
+    def current_focus(self):
+        return [
+            "⚡ Async Python",
+            "🏗️ Backend Architecture",
+            "🧠 System Design",
+            "🤖 Backend × ML",
+        ]
 
-**идея → архитектура → backend → база данных → Docker → deployment 🚀**
+    def philosophy(self):
+        return "Idea → Code → Deploy → Improve 🔁"
 
-💡 Уже разрабатывал сервис для управления **обучением ML-моделей**,  
-который продолжили использовать после завершения моей работы над проектом.
+    def coffee_to_code(self, coffee):
+        return "☕" * coffee + " → " + "💻" * (coffee * 2)
 
-⚡ Больше всего мне интересны **backend-архитектура, асинхронные сервисы,  
-инфраструктура и интеграция Backend × ML**.
 
-🔨 Люблю не просто написать код, а **довести проект до состояния, когда им можно пользоваться**.
+me = SailJe()
 
-🎯 Сейчас развиваюсь как **Python Backend Developer** и ищу возможность  
-поработать над реальным продуктом в команде.
+while me.status == "🟢 Open to work":
+    me.learn()
+    me.build()
+    me.ship()
 
-<br clear="right"/>
-
-<div align="center">
-
-### `Code → Build → Deploy → Improve 🔁`
-
-</div>
+# TODO: join an awesome dev team 🚀
+```
 ---
 
 
