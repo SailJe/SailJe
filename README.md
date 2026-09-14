@@ -1,4 +1,4 @@
-<img align="right" width="350" src="assets/giphy.gif">
+<img align="right" width="350" src="./assets/giphy.gif">
 
 # Привет! Я Савелий 👋
 
