@@ -1,50 +1,41 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=55&duration=1800&pause=800&color=58A6FF&center=true&vCenter=true&repeat=true&width=700&height=100&lines=SailJe.;SailJe_;SailJe." alt="SailJe typing animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=58&duration=1700&pause=700&color=58A6FF&center=true&vCenter=true&repeat=true&width=800&height=110&lines=SailJe.;SailJe_;SailJe." alt="SailJe typing animation"/>
 
 ### Python Backend Developer 🐍
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=800&color=8B949E&center=true&vCenter=true&width=750&lines=FastAPI+%E2%80%A2+PostgreSQL+%E2%80%A2+Docker;Kubernetes+%E2%80%A2+Linux+%E2%80%A2+Nginx;Backend+%2B+ML+Integration;Создаю+backend+для+реальных+задач" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=900&color=8B949E&center=true&vCenter=true&width=800&lines=FastAPI+%E2%80%A2+PostgreSQL+%E2%80%A2+Docker;Kubernetes+%E2%80%A2+Linux+%E2%80%A2+Nginx;Backend+%2B+ML+Integration;Создаю+backend+для+реальных+задач" alt="Typing animation"/>
 
 </div>
 
 <br>
 
-<img align="right" width="340" src="./giphy.gif" alt="Coding animation"/>
+<img align="right" width="340" src="./giphy.gif" alt="Coding GIF"/>
 
 ## 👨‍💻 Обо мне
 
-Привет! Я **Савелий** — начинающий Python Backend Developer.
+Привет! Я **Савелий** — начинающий **Python Backend Developer**.
 
 Мне нравится создавать полноценные backend-сервисы:  
 от проектирования API и базы данных до контейнеризации  
 и развёртывания приложения.
 
-🐍 Пишу backend на **Python**
-
-⚡ Разрабатываю REST API на **FastAPI**
-
-🗄️ Работаю с **PostgreSQL**
-
-🔗 Использую **SQLAlchemy / Pydantic / Alembic**
-
-🐳 Контейнеризирую приложения через **Docker**
-
-☸️ Работаю с **Kubernetes**
-
-🌐 Разворачиваю проекты на **Linux / Nginx / VPS**
-
-🧪 Тестирую backend через **pytest**
-
-🤖 Интегрирую backend с **ML-процессами**
-
-🎯 Ищу стажировку / позицию **Junior Python Backend Developer**
+- 🐍 Пишу backend на **Python**
+- ⚡ Разрабатываю API на **FastAPI**
+- 🗄️ Работаю с **PostgreSQL**
+- 🔗 Использую **SQLAlchemy / Pydantic / Alembic**
+- 🐳 Контейнеризирую проекты через **Docker**
+- ☸️ Работаю с **Kubernetes**
+- 🌐 Разворачиваю сервисы на **Linux / VPS / Nginx**
+- 🧪 Пишу тесты через **pytest**
+- 🤖 Интегрирую backend с **ML-процессами**
+- 🎯 Ищу стажировку или позицию **Junior Python Backend Developer**
 
 <br clear="right"/>
 
 ---
 
-# 🛠️ Мой стек
+# 🛠️ Технологии
 
 <div align="center">
 
@@ -104,21 +95,3 @@
 
 ---
 
-## 🌐 Deployment Web Application
-
-Полное развёртывание приложения из backend, frontend и базы данных.
-
-```text
-            INTERNET
-               │
-               ▼
-          ┌─────────┐
-          │  NGINX  │
-          └────┬────┘
-               │
-       ┌───────┴───────┐
-       ▼               ▼
-    React           FastAPI
-                       │
-                       ▼
-                  PostgreSQL
