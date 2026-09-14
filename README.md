@@ -4,7 +4,10 @@
 
 ### Python Backend Developer 🐍
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=900&color=8B949E&center=true&vCenter=true&width=800&lines=FastAPI+%E2%80%A2+PostgreSQL+%E2%80%A2+Docker;Kubernetes+%E2%80%A2+Linux+%E2%80%A2+Nginx;Backend+%2B+ML+Integration;Создаю+backend+для+реальных+задач" alt="Typing animation"/>
+<img
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=900&color=8B949E&center=true&vCenter=true&width=800&lines=FastAPI+%E2%80%A2+PostgreSQL+%E2%80%A2+Docker;Kubernetes+%E2%80%A2+Linux+%E2%80%A2+Nginx;Backend+%2B+ML+Integration;Building+backend+for+real+world+tasks"
+  alt="Typing animation"
+/>
 
 </div>
 
