@@ -110,6 +110,11 @@ async def currently():
 ```
 
 
+<div align="center">
+  <img src="./sailje_hacker_console.gif" width="850" alt="SailJe hacker console">
+</div>
+
+
 # 🚀 Проекты
 
 ## 🤖 Сервис управления обучением ML-моделей
