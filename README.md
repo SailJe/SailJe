@@ -66,49 +66,35 @@
 
 ---
 
-# ⚙️ Обо мне в коде
+## 👨‍💻 Обо мне
 
-```python
-developer = {
-    "name": "SailJe",
-    "role": "Python Backend Developer",
-    "language": "Python",
+<img align="right" width="340" src="./giphy.gif" alt="Coding GIF"/>
 
-    "backend": [
-        "FastAPI",
-        "SQLAlchemy",
-        "Pydantic",
-        "Alembic"
-    ],
+Привет! Я **Савелий** 👋  
+**Python Backend Developer**, которому нравится превращать идеи в работающие сервисы.
 
-    "database": [
-        "PostgreSQL"
-    ],
+Я не ограничиваюсь написанием API — мне интересно пройти весь путь проекта:
 
-    "devops": [
-        "Docker",
-        "Docker Compose",
-        "Kubernetes",
-        "Linux",
-        "Nginx"
-    ],
+**идея → архитектура → backend → база данных → Docker → deployment 🚀**
 
-    "testing": [
-        "pytest",
-        "Postman"
-    ],
+💡 Уже разрабатывал сервис для управления **обучением ML-моделей**,  
+который продолжили использовать после завершения моей работы над проектом.
 
-    "interests": [
-        "Backend Architecture",
-        "Async Python",
-        "System Design",
-        "ML Integration"
-    ],
+⚡ Больше всего мне интересны **backend-архитектура, асинхронные сервисы,  
+инфраструктура и интеграция Backend × ML**.
 
-    "status": "Open to internship / Junior opportunities 🚀"
-}
-```
+🔨 Люблю не просто написать код, а **довести проект до состояния, когда им можно пользоваться**.
 
+🎯 Сейчас развиваюсь как **Python Backend Developer** и ищу возможность  
+поработать над реальным продуктом в команде.
+
+<br clear="right"/>
+
+<div align="center">
+
+### `Code → Build → Deploy → Improve 🔁`
+
+</div>
 ---
 
 
