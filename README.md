@@ -11,8 +11,8 @@
 
 </div>
 
-<br>
-<img align="right" width="340" src="./giphy.gif"/>
+<br><br>
+<img align="right" width="340" src="./giphy.gif" alt="Coding GIF"/>
 
 ## 👨‍💻 Обо мне
 
