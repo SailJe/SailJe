@@ -66,52 +66,48 @@
 
 ---
 
+
 ## ⚙️ Обо мне в коде
 
 ```python
-class SailJe:
-    def __init__(self):
-        self.name = "Савелий"
-        self.role = "Python Backend Developer"
-        self.location = "🌍"
-        self.status = "🟢 Open to work"
+from fastapi import FastAPI
 
-        self.stack = {
-            "backend": ["Python", "FastAPI", "SQLAlchemy", "Pydantic"],
-            "database": ["PostgreSQL"],
-            "devops": ["Docker", "Kubernetes", "Linux", "Nginx"],
-            "testing": ["pytest", "Postman"],
-        }
-
-    def current_focus(self):
-        return [
-            "⚡ Async Python",
-            "🏗️ Backend Architecture",
-            "🧠 System Design",
-            "🤖 Backend × ML",
-        ]
-
-    def philosophy(self):
-        return "Idea → Code → Deploy → Improve 🔁"
-
-    def coffee_to_code(self, coffee):
-        return "☕" * coffee + " → " + "💻" * (coffee * 2)
+app = FastAPI(title="SailJe API")
 
 
-me = SailJe()
+@app.get("/about")
+async def about_me():
+    return {
+        "developer": "Савелий",
+        "role": "Python Backend Developer",
+        "status": "🟢 Open to work",
+        "superpower": "Turning ideas into working services 🚀",
+    }
 
-while me.status == "🟢 Open to work":
-    me.learn()
-    me.build()
-    me.ship()
 
-# TODO: join an awesome dev team 🚀
+@app.get("/stack")
+async def stack():
+    return {
+        "backend": ["FastAPI", "SQLAlchemy", "Pydantic"],
+        "database": "PostgreSQL",
+        "infrastructure": ["Docker", "Kubernetes", "Nginx"],
+    }
+
+
+@app.get("/currently")
+async def currently():
+    return {
+        "learning": "System Design",
+        "building": "Backend projects",
+        "looking_for": "Internship / Junior position 👀",
+    }
+
+
+# 🚀 SailJe API started successfully
+# GET /about     → 200 OK
+# GET /stack     → 200 OK
+# GET /currently → 200 OK
 ```
----
-
-
-
-
 
 
 # 🚀 Проекты
