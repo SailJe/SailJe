@@ -1,4 +1,4 @@
-<img align="right" width="350" src="https://tenor.com/u18ZsBzWmwG.gif">
+<img align="right" width="350" src="giphy.gif">
 
 # Привет! Я Савелий 👋
 
